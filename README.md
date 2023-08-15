@@ -1,8 +1,39 @@
-#AppleGoodForYou
+florr.io obsessed, semi active programmer. 
+you don't see much here because most of my stuff is private >:)
 
 
 
-hehehehe...
+
+
+
+
+
+
+
+
+
+psst...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+join applegoodforyou...
 
 <!---
 EricYuan26/EricYuan26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

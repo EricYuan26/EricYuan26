@@ -1,5 +1,4 @@
-florr.io obsessed, semi active programmer. 
-you don't see much here because most of my stuff is private >:)
+self-taught js programmer with a florr.io obsession
 <br>
 <br>
 <br>

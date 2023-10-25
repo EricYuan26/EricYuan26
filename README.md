@@ -1,4 +1,6 @@
-self-taught js programmer with a florr.io obsession
+Self-taught JS programmer with a florr.io obsession
+<br>
+stereotypically ultra-introverted, what were you expecting?
 <br>
 <br>
 <br>
@@ -8,55 +10,7 @@ self-taught js programmer with a florr.io obsession
 <br>
 <br>
 <br>
-<br>
-<br>
-
-
-
-
-
-
-
-
-
-
-
-
-psst...
-
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-join applegoodforyou...
+ok bye plz leave
 
 <!---
 EricYuan26/EricYuan26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
